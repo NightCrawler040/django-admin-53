@@ -1,0 +1,25 @@
+{
+    "name": "Birzhan",
+    "email": "birzhan2000@gmail.com",
+    "password": "qwerty"
+}
+{
+    "name": "Arnas",
+    "email": "arnas2004@gmail.com",
+    "password": "qwerty1234"
+}
+{
+    "name": "Beksyltan",
+    "email": "beksyltan2004@gmail.com",
+    "password": "qwerty1234"
+}
+{
+    "name": "Zhandos",
+    "email": "zhandos2004@gmail.com",
+    "password": "qwerty1234"
+}
+{
+    "name": "Aruzhan",
+    "email": "aruzhan2009@gmail.com",
+    "password": "qwerty1234"
+}

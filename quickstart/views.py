@@ -51,10 +51,14 @@ class WishListView(APIView):
         product_id = request.data.get('product_id')
         if not product_id:
             raise ValidationError('Product id is required')
-        wish_list = WishList.objects.get(user=self.request.user)
-        if not wish_list:
-            wish_list = WishList.objects.create(user=self.request.user, product=[product_id])
+
+        if not WishList.objects.filter(user=self.request.user).exists():
+            # wish_list = WishList.objects.create(user=self.request.user, product=[product_id])
+            # wish_list with user and product
+            wish_list = WishList.objects.create(user=self.request.user)
+            wish_list.product.add(product_id)
         else:
+            wish_list = WishList.objects.get(user=self.request.user)
             wish_list.product.add(product_id)
         return Response({'status': 'success'})
 
