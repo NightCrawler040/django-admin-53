@@ -19,7 +19,11 @@
     "password": "qwerty1234"
 }
 {
-    "name": "Aruzhan",
-    "email": "aruzhan2009@gmail.com",
+    "name": "vima",
+    "email": "vima009@gmail.com",
     "password": "qwerty1234"
+}
+{
+    "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwMzk0ODI5NiwiaWF0IjoxNzAxMzU2Mjk2LCJqdGkiOiI0ZTNiOWRmZDA4NGQ0N2YyYjcxNjY4ZGJmMTg0ZjBmZSIsInVzZXJfaWQiOjl9.47dLMn8NF6fKDEhOED4Ds9_qq94-HdBPKJr3q5ZPHo8",
+    "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzAxMzU4MDk2LCJpYXQiOjE3MDEzNTYyOTYsImp0aSI6IjM4NGViYTIwMTU3ZTQyNGM5MGI4Njc5MGZiMDFhMmFkIiwidXNlcl9pZCI6OX0.5ryF3kwSO48bBka2pKGkHiPn2aTVRSNyT9I42jm-xeE"
 }

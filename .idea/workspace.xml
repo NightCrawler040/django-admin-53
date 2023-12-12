@@ -4,55 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60cb67d9-bf24-4d78-97ad-cc50dc2a5495" name="Changes" comment="Fourth commit">
-      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/1ea173c9-29c7-4336-8354-212c5d6ce689.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/2db3f2b1-4f95-4aa5-b30f-a2ef7f6dae99.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/2eaa8c6f-a112-4d22-b607-84fa3d833fff.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/49ea3186-155b-448f-b0ad-084b94f07daa.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/5a2a381b-a027-4047-9b76-269d20bae6a3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/624933f4-86a8-49cc-99dd-5895cc3cc835.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/70abbc13-0ca3-4a00-b60b-7f36ca8f0794.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/83712a81-b184-44ad-a1c5-906fbb440e93.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/91038a56-d4d3-40aa-90a4-c50b5324ca0c.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/cb13f390-2945-4388-b6e4-b7baebfac181.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/d3685cfe-ed33-44e2-b658-7db08dd16609.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/d4ba50e2-bb3a-4a20-a061-36fc0a3f69a6.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/d8c9bba7-6027-4d00-89b4-aa5dac61a823.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user.txt" afterDir="false" />
+    <list default="true" id="60cb67d9-bf24-4d78-97ad-cc50dc2a5495" name="Changes" comment="Five commit">
+      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/b9ca2e0f-31dc-4b9f-a2e2-6f789e71465c.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/d8423bc9-bfa1-4c0d-8382-28482e8588d9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/6499321c-1604-4a2c-8909-4f8f92d6f9fd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6499321c-1604-4a2c-8909-4f8f92d6f9fd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/work first ddd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/work first ddd.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/commands.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/0be199c5-9775-4fe8-8063-65b24942508c.webp" beforeDir="false" afterPath="$PROJECT_DIR$/mediafiles/images/products/1a476fda-733f-4318-818c-00b06083e857.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/41477f44-184e-4e20-9ad2-9511a4ca0286.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/48511fe0-7e7d-499c-b15d-ba5312e73078.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/4b03cde2-f969-4d41-978e-aa8e3957ebbc.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/5e558057-7c31-4f96-8e89-762ca1abd18a.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/61e37cf2-ef64-4b4e-b175-9c43193ba86d.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/6785bc03-69ff-447d-972a-12564ec4e604.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/6af20553-8e9d-4654-9b04-242eee81f99b.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/7ae64f07-f7a7-4861-97fc-5c4422090dc4.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/8579dcdd-e1cc-4934-b225-1d70a9e4c53d.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/86b9d9fa-1a90-42a8-a3cc-fa4c60558df5.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/8903d94c-8ac7-4435-b9bd-a0feaba05292.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/95e44463-c9d3-4891-a874-1ae36e451d66.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/a183e2ba-c59a-450c-9531-0c4d2ce6ef55.webp" beforeDir="false" afterPath="$PROJECT_DIR$/mediafiles/images/products/097c5ff1-6a66-432f-a383-bfe99b3d5f0a.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/a45e05f4-6b1b-44c2-8572-959ea9075da1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/a6ae10f5-245b-413f-9336-7b4ee56cdc86.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/b3b32fd3-1197-4228-bde3-e958c2a813a5.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/b9a49326-3b63-47e1-b9e3-b400964f078e.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/be39e8bd-2186-43d6-825e-fca6bab52a00.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/c21d0e46-ece4-4925-812f-d94a9c22499d.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/cf837dae-d57c-4615-b337-7d6a27e30e65.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/d669790f-6b5e-4f36-bff6-cced146bea2c.webp" beforeDir="false" afterPath="$PROJECT_DIR$/mediafiles/images/products/b7e35425-192e-4808-9ae9-4bb38763fde9.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/e32c6d4b-3c56-46be-8ce8-ca342cfbe738.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediafiles/images/products/e43fa1ca-cddc-431f-8b63-eb88f2c37689.webp" beforeDir="false" afterPath="$PROJECT_DIR$/mediafiles/images/products/9e6b065d-18b4-4c06-9959-a79ef408c7a4.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quickstart/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quickstart/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quickstart/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.txt" beforeDir="false" afterPath="$PROJECT_DIR$/user.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +57,12 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2MVTKTJ28MgYdL5PzxJiBqX8mt2" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -99,6 +74,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Django Server.work first ddd.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -110,7 +87,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -122,6 +99,7 @@
   <component name="RunManager">
     <configuration name="work first ddd" type="Python.DjangoServer" factoryName="Django server">
       <module name="work first ddd" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -135,7 +113,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
-      <option name="host" value="" />
+      <option name="host" value="localhost" />
       <option name="additionalOptions" value="" />
       <option name="browserUrl" value="" />
       <option name="runTestServer" value="false" />
@@ -144,6 +122,13 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -215,6 +200,22 @@
       <workItem from="1684157747427" duration="1986000" />
       <workItem from="1684330339385" duration="4743000" />
       <workItem from="1684498545070" duration="2429000" />
+      <workItem from="1685615420065" duration="240000" />
+      <workItem from="1685615690514" duration="24000" />
+      <workItem from="1691843697305" duration="2052000" />
+      <workItem from="1694240907392" duration="721000" />
+      <workItem from="1694578448071" duration="1522000" />
+      <workItem from="1695447627195" duration="834000" />
+      <workItem from="1695739311377" duration="157000" />
+      <workItem from="1695739483137" duration="2000" />
+      <workItem from="1697269920795" duration="432000" />
+      <workItem from="1700718533907" duration="479000" />
+      <workItem from="1701322784905" duration="2804000" />
+      <workItem from="1701351068642" duration="6409000" />
+      <workItem from="1701504391797" duration="38150000" />
+      <workItem from="1701937132042" duration="3113000" />
+      <workItem from="1702299030479" duration="235000" />
+      <workItem from="1702299279437" duration="8776000" />
     </task>
     <task id="LOCAL-00001" summary="Second">
       <created>1678714652446</created>
@@ -237,11 +238,22 @@
       <option name="project" value="LOCAL" />
       <updated>1683345079091</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Five commit">
+      <created>1685615449661</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685615449661</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -265,7 +277,8 @@
     <MESSAGE value="Second" />
     <MESSAGE value="Third commit" />
     <MESSAGE value="Fourth commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fourth commit" />
+    <MESSAGE value="Five commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Five commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/work_first_ddd$models.coverage" NAME="models Coverage Results" MODIFIED="1679369652573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quickstart" />

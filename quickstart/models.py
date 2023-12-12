@@ -1,17 +1,19 @@
-from django.db import models
 import uuid
 import os
 from django.db import models
 from django.contrib.auth.models import AbstractUser, BaseUserManager
 
+from tutorial.logging import logger
 
+
+# get_file_path позволяет сохранять файлы с уникальными именами в определенной папке
 def get_file_path(instance, filename):
     ext = filename.split('.')[-1]
     filename = "%s.%s" % (uuid.uuid4(), ext)
     return os.path.join('images/products', filename)
 
 
-# Create your models here.
+# models here.
 class Model(models.Model):
     id = models.AutoField(primary_key=True)
     created_at = models.DateTimeField(auto_now_add=True, db_index=True)
@@ -38,6 +40,12 @@ class Product(Model):
     image = models.ImageField(upload_to=get_file_path, null=True, blank=True, )
     category = models.ForeignKey(Category, on_delete=models.CASCADE, related_name='products', null=True)
 
+    # В этом примере, я добавил вызов logger.info в метод save модели Product. Каждый раз, когда продукт сохраняется,
+    # сообщение будет записано в журнал.
+    def save(self, *args, **kwargs):
+        logger.info('Saving product: %s', self.title)
+        super().save(*args, **kwargs)
+
     def __str__(self) -> str:
         return self.title
 
@@ -55,6 +63,10 @@ class UserManager(BaseUserManager):
         user.set_password(password)
         user.save(using=self._db)
         return user
+    # create_user() принимает email и password и создает и сохраняет пользователя с заданными данными.
+    # normalize_email() преобразует доменное имя в нижний регистр.
+    # set_password() преобразует пароль в хэш.
+    # save() сохраняет пользователя в базе данных.
 
     def create_superuser(self, email, password, **extra_fields):
         extra_fields.setdefault('is_staff', True)
@@ -67,6 +79,10 @@ class UserManager(BaseUserManager):
             raise ValueError('Superuser must have is_superuser = True')
 
         return self.create_user(email, password, **extra_fields)
+    # create_superuser() принимает email и password и создает и сохраняет пользователя с заданными данными.
+    # extra_fields.setdefault() устанавливает значения по умолчанию для is_staff, is_superuser и is_active.
+    # Если is_staff и is_superuser не установлены в True, то возникает исключение.
+    # Если is_staff и is_superuser установлены в True, то вызывается метод create_user().
 
 
 class UserData(AbstractUser):
